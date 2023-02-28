@@ -1,0 +1,19 @@
+{
+  "name": "admit-assist",
+  "version": "1.0.0",
+  "description": "AI Based university admission recommendation system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikhilkumarreddyvedere/AdmitAssit.git"
+  },
+  "author": "Nikhil Vedere",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikhilkumarreddyvedere/AdmitAssit/issues"
+  },
+  "homepage": "https://github.com/nikhilkumarreddyvedere/AdmitAssit#readme"
+}
